@@ -1,0 +1,18 @@
+<h2>Hi {USER_NAME},</h2>
+
+<p>Thank you for joining {sitetitle}. To finish signing up, you just need to confirm that we got your email right.</p>
+
+<p>Click the button below to confirm your email address.</p>
+
+<p>&nbsp;</p>
+
+<p><a href="{SUBMIT_LINK}" style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; color: #FFF; text-decoration: none; line-height: 2em; cursor: pointer; display: inline-block; border-radius: 5px; text-transform: capitalize; background-color: #4ac102; margin: 0; padding:5px 10px;" target="_blank">Confirm email address</a></p>
+
+<p>&nbsp;</p>
+
+<p>Once you have visited the verification URL, your account will be activated.</p>
+
+<p>&nbsp;</p>
+
+<p>Thanks,<br />
+{sitetitle} Team</p>
